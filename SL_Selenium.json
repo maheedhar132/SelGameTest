@@ -1,0 +1,18 @@
+{
+  "tokenFile": "/home/ubuntu/node_sltoken.txt",
+  "buildSessionId": "${buildSessionId}",
+  "createBuildSessionId": false,
+  "workspacepath": "${project.build.outputDirectory}/GameTest",
+  "recursive": true,
+  "includeResources": true,
+  "testStage": "Selenium Linux Test",
+  "labId": null,
+  "executionType": "testsonly",
+  "logEnabled": false,
+  "logDestination": "console",
+  "logLevel": "off",
+  "logFolder": "/tmp",
+  "filesStorage": "/tmp",
+  "sealightsJvmParams": {}, 
+  "enabled": true
+}
